@@ -1,0 +1,101 @@
+Rechnungsnummer;Kundennummer;Bestellnummer;Produktbezeichnung;Materialnummer;Kategorie;Menge;Einzelpreis_EUR;Bestelldatum;Lieferdatum;Land;Zahlungsart;Bestellstatus
+RE-2025-50059;K-10285;B-2025-10059;Yoga-Matte Premium;MAT-SPR-002;Sport & Freizeit;1;32,9;01.02.2025;07.02.2025;Irland;PayPal;Geliefert
+RE-2026-50005;K-10618;B-2026-10005;Gewürzbox mit 12 Gläsern;MAT-KUE-003;Küche;2;29,9;01.02.2026;02.02.2026;Belgien;PayPal;Versendet
+RE-2026-50085;K-10928;B-2026-10085;Notizbuch Hardcover A5;MAT-OFF-001;Büro & Schreibwaren;1;11,9;01.05.2026;03.05.2026;Italien;Apple Pay;Zugestellt
+RE-2025-50087;K-10334;B-2025-10087;Küchenwaage digital;MAT-KUE-002;Küche;1;27,9;01.10.2025;05.10.2025;Frankreich;Klarna;Geliefert
+RE-2025-50079;K-10236;B-2025-10079;Smart LED Schreibtischlampe;MAT-ELE-003;Elektronik;1;54,9;01.12.2025;06.12.2025;Italien;Kreditkarte;Geliefert
+RE-2026-50060;K-10863;B-2026-10060;Gesichtsreinigung Aloe Vera;MAT-BEA-002;Beauty;1;14,9;02.01.2026;08.01.2026;Polen;SEPA-Lastschrift;Geliefert
+RE-2025-50000;K-10142;B-2025-10000;Thermobecher 450 ml;MAT-HSH-001;Haushalt;1;22,9;02.05.2025;03.05.2025;Tschechien;PayPal;Zugestellt
+RE-2025-50022;K-10246;B-2025-10022;Bambus-Schneidebrett;MAT-KUE-001;Küche;1;18,9;02.05.2025;05.05.2025;Finnland;Apple Pay;Geliefert
+RE-2026-50017;K-10881;B-2026-10017;Thermobecher 450 ml;MAT-HSH-001;Haushalt;4;22,9;02.05.2026;07.05.2026;Deutschland;PayPal;Zugestellt
+RE-2025-50010;K-10388;B-2025-10010;Widerstandsband-Set 5-teilig;MAT-SPR-003;Sport & Freizeit;1;19,9;02.07.2025;07.07.2025;Belgien;Apple Pay;Geliefert
+RE-2026-50013;K-10271;B-2026-10013;Ergonomischer Laptopständer;MAT-OFF-002;Büro & Schreibwaren;1;42,9;03.06.2026;07.06.2026;Schweiz;Kreditkarte;Zugestellt
+RE-2025-50008;K-10464;B-2025-10008;Powerbank 20.000 mAh;MAT-ELE-004;Elektronik;1;34,9;03.09.2025;10.09.2025;Schweden;SEPA-Lastschrift;Geliefert
+RE-2025-50051;K-10437;B-2025-10051;Bio-Hafercookies 300 g;MAT-FOO-003;Lebensmittel;1;5,49;03.10.2025;05.10.2025;Polen;PayPal;Geliefert
+RE-2025-50002;K-10718;B-2025-10002;Yoga-Matte Premium;MAT-SPR-002;Sport & Freizeit;2;32,9;04.02.2025;09.02.2025;Polen;Klarna;Geliefert
+RE-2025-50086;K-10887;B-2025-10086;Ergonomischer Laptopständer;MAT-OFF-002;Büro & Schreibwaren;1;42,9;04.02.2025;05.02.2025;Spanien;Kreditkarte;Geliefert
+RE-2025-50031;K-10100;B-2025-10031;Ergonomischer Laptopständer;MAT-OFF-002;Büro & Schreibwaren;4;42,9;04.03.2025;10.03.2025;Deutschland;Klarna;Geliefert
+RE-2025-50049;K-10517;B-2025-10049;Ergonomischer Laptopständer;MAT-OFF-002;Büro & Schreibwaren;2;42,9;04.08.2025;10.08.2025;Spanien;SEPA-Lastschrift;Geliefert
+RE-2025-50099;K-10088;B-2025-10099;Widerstandsband-Set 5-teilig;MAT-SPR-003;Sport & Freizeit;2;19,9;04.12.2025;11.12.2025;Belgien;Klarna;Geliefert
+RE-2025-50023;K-10778;B-2025-10023;Handcreme Sensitive 75 ml;MAT-BEA-001;Beauty;2;8,9;05.04.2025;11.04.2025;Polen;Kreditkarte;Geliefert
+RE-2025-50092;K-10110;B-2025-10092;Edelstahl Trinkflasche 750 ml;MAT-SPR-001;Sport & Freizeit;4;24,9;05.05.2025;12.05.2025;Dänemark;PayPal;Geliefert
+RE-2025-50048;K-10288;B-2025-10048;Duftkerze Vanille 220 g;MAT-WOH-001;Wohnen;1;16,9;06.05.2025;07.05.2025;Dänemark;Kreditkarte;Geliefert
+RE-2025-50061;K-10271;B-2025-10061;Edelstahl Trinkflasche 750 ml;MAT-SPR-001;Sport & Freizeit;2;24,9;06.05.2025;09.05.2025;Deutschland;PayPal;Zugestellt
+RE-2025-50043;K-10307;B-2025-10043;Mechanische Gaming-Tastatur;MAT-ELE-005;Elektronik;2;89,9;06.10.2025;10.10.2025;Spanien;SEPA-Lastschrift;Geliefert
+RE-2025-50066;K-10680;B-2025-10066;Mechanische Gaming-Tastatur;MAT-ELE-005;Elektronik;1;89,9;06.11.2025;11.11.2025;Italien;Kreditkarte;Zugestellt
+RE-2025-50011;K-10032;B-2025-10011;USB-C Schnellladegerät 65 W;MAT-ELE-002;Elektronik;1;39,9;06.12.2025;13.12.2025;Portugal;SEPA-Lastschrift;Versendet
+RE-2025-50001;K-10095;B-2025-10001;Premium Grüntee 250 g;MAT-FOO-002;Lebensmittel;1;12,9;07.04.2025;12.04.2025;Niederlande;Kreditkarte;Zugestellt
+RE-2025-50053;K-10373;B-2025-10053;Mechanische Gaming-Tastatur;MAT-ELE-005;Elektronik;1;89,9;08.06.2025;12.06.2025;Finnland;PayPal;Geliefert
+RE-2026-50076;K-10162;B-2026-10076;Duftkerze Vanille 220 g;MAT-WOH-001;Wohnen;1;16,9;08.06.2026;12.06.2026;Tschechien;Klarna;Versendet
+RE-2026-50091;K-10785;B-2026-10091;Bio-Hafercookies 300 g;MAT-FOO-003;Lebensmittel;2;5,49;08.08.2026;10.08.2026;Frankreich;Kreditkarte;Zugestellt
+RE-2025-50018;K-10300;B-2025-10018;Ergonomischer Laptopständer;MAT-OFF-002;Büro & Schreibwaren;1;42,9;08.10.2025;15.10.2025;Italien;Kreditkarte;Versendet
+RE-2026-50024;K-10893;B-2026-10024;Edelstahl Trinkflasche 750 ml;MAT-SPR-001;Sport & Freizeit;1;24,9;09.05.2026;14.05.2026;Dänemark;Klarna;Geliefert
+RE-2025-50078;K-10292;B-2025-10078;Bio-Hafercookies 300 g;MAT-FOO-003;Lebensmittel;1;5,49;09.09.2025;12.09.2025;Niederlande;SEPA-Lastschrift;Geliefert
+RE-2025-50012;K-10580;B-2025-10012;Yoga-Matte Premium;MAT-SPR-002;Sport & Freizeit;3;32,9;09.10.2025;10.10.2025;Finnland;SEPA-Lastschrift;Geliefert
+RE-2025-50020;K-10203;B-2025-10020;Ergonomischer Laptopständer;MAT-OFF-002;Büro & Schreibwaren;1;42,9;09.11.2025;16.11.2025;Schweiz;SEPA-Lastschrift;Geliefert
+RE-2025-50041;K-10040;B-2025-10041;Widerstandsband-Set 5-teilig;MAT-SPR-003;Sport & Freizeit;1;19,9;10.05.2025;15.05.2025;Dänemark;PayPal;Versendet
+RE-2026-50045;K-10902;B-2026-10045;Mechanische Gaming-Tastatur;MAT-ELE-005;Elektronik;3;89,9;10.06.2026;13.06.2026;Österreich;Kreditkarte;Geliefert
+RE-2025-50056;K-10421;B-2025-10056;Küchenwaage digital;MAT-KUE-002;Küche;2;27,9;10.07.2025;16.07.2025;Portugal;Kreditkarte;Geliefert
+RE-2025-50019;K-10780;B-2025-10019;Thermobecher 450 ml;MAT-HSH-001;Haushalt;4;22,9;11.01.2025;17.01.2025;Schweiz;Apple Pay;Geliefert
+RE-2026-50082;K-10399;B-2026-10082;Gewürzbox mit 12 Gläsern;MAT-KUE-003;Küche;1;29,9;11.05.2026;12.05.2026;Irland;Klarna;Zugestellt
+RE-2026-50006;K-10300;B-2026-10006;Bio-Kaffeebohnen 1 kg;MAT-FOO-001;Lebensmittel;1;21,9;11.07.2026;12.07.2026;Irland;Apple Pay;Geliefert
+RE-2025-50054;K-10362;B-2025-10054;Widerstandsband-Set 5-teilig;MAT-SPR-003;Sport & Freizeit;2;19,9;11.08.2025;17.08.2025;Portugal;Apple Pay;Versendet
+RE-2025-50050;K-10045;B-2025-10050;Premium Grüntee 250 g;MAT-FOO-002;Lebensmittel;2;12,9;12.04.2025;18.04.2025;Deutschland;SEPA-Lastschrift;Geliefert
+RE-2026-50003;K-10006;B-2026-10003;Thermobecher 450 ml;MAT-HSH-001;Haushalt;2;22,9;12.04.2026;17.04.2026;Portugal;Kreditkarte;Versendet
+RE-2026-50040;K-10069;B-2026-10040;Edelstahl Trinkflasche 750 ml;MAT-SPR-001;Sport & Freizeit;1;24,9;12.06.2026;13.06.2026;Schweden;Kreditkarte;Versendet
+RE-2025-50097;K-10988;B-2025-10097;Edelstahl Trinkflasche 750 ml;MAT-SPR-001;Sport & Freizeit;2;24,9;13.06.2025;17.06.2025;Schweden;SEPA-Lastschrift;Zugestellt
+RE-2026-50014;K-10597;B-2026-10014;Baumwoll-Decke 150 x 200 cm;MAT-WOH-002;Wohnen;1;39,9;13.07.2026;16.07.2026;Italien;SEPA-Lastschrift;Geliefert
+RE-2026-50098;K-10845;B-2026-10098;Handcreme Sensitive 75 ml;MAT-BEA-001;Beauty;1;8,9;13.07.2026;20.07.2026;Tschechien;Apple Pay;Geliefert
+RE-2026-50067;K-10000;B-2026-10067;Bio-Kaffeebohnen 1 kg;MAT-FOO-001;Lebensmittel;1;21,9;13.08.2026;16.08.2026;Belgien;SEPA-Lastschrift;Geliefert
+RE-2025-50094;K-10614;B-2025-10094;Bambus-Schneidebrett;MAT-KUE-001;Küche;2;18,9;13.09.2025;14.09.2025;Portugal;PayPal;Zugestellt
+RE-2025-50080;K-10477;B-2025-10080;Premium Grüntee 250 g;MAT-FOO-002;Lebensmittel;1;12,9;14.03.2025;18.03.2025;Italien;PayPal;Geliefert
+RE-2026-50081;K-10020;B-2026-10081;Baumwoll-Decke 150 x 200 cm;MAT-WOH-002;Wohnen;3;39,9;14.03.2026;18.03.2026;Irland;Apple Pay;Versendet
+RE-2026-50021;K-10613;B-2026-10021;Gesichtsreinigung Aloe Vera;MAT-BEA-002;Beauty;3;14,9;14.07.2026;21.07.2026;Frankreich;Klarna;Geliefert
+RE-2026-50025;K-10408;B-2026-10025;Yoga-Matte Premium;MAT-SPR-002;Sport & Freizeit;2;32,9;14.07.2026;21.07.2026;Schweden;SEPA-Lastschrift;Versendet
+RE-2026-50029;K-10248;B-2026-10029;Baumwoll-Decke 150 x 200 cm;MAT-WOH-002;Wohnen;1;39,9;14.07.2026;16.07.2026;Portugal;Klarna;Versendet
+RE-2025-50069;K-10982;B-2025-10069;Handcreme Sensitive 75 ml;MAT-BEA-001;Beauty;2;8,9;14.08.2025;19.08.2025;Portugal;Kreditkarte;Geliefert
+RE-2026-50064;K-10942;B-2026-10064;Smart LED Schreibtischlampe;MAT-ELE-003;Elektronik;3;54,9;15.01.2026;19.01.2026;Frankreich;Apple Pay;Geliefert
+RE-2026-50088;K-10767;B-2026-10088;Smart LED Schreibtischlampe;MAT-ELE-003;Elektronik;1;54,9;15.03.2026;18.03.2026;Polen;PayPal;Geliefert
+RE-2025-50065;K-10682;B-2025-10065;Bambus-Schneidebrett;MAT-KUE-001;Küche;1;18,9;15.05.2025;21.05.2025;Italien;SEPA-Lastschrift;Versendet
+RE-2025-50055;K-10830;B-2025-10055;Edelstahl Trinkflasche 750 ml;MAT-SPR-001;Sport & Freizeit;4;24,9;15.06.2025;17.06.2025;Schweiz;Klarna;Geliefert
+RE-2025-50047;K-10679;B-2025-10047;Duftkerze Vanille 220 g;MAT-WOH-001;Wohnen;1;16,9;16.01.2025;22.01.2025;Österreich;Kreditkarte;Geliefert
+RE-2025-50044;K-10102;B-2025-10044;Notizbuch Hardcover A5;MAT-OFF-001;Büro & Schreibwaren;4;11,9;17.01.2025;21.01.2025;Österreich;Apple Pay;Geliefert
+RE-2026-50037;K-10498;B-2026-10037;Duftkerze Vanille 220 g;MAT-WOH-001;Wohnen;2;16,9;17.03.2026;23.03.2026;Schweiz;Kreditkarte;Geliefert
+RE-2025-50028;K-10243;B-2025-10028;Küchenwaage digital;MAT-KUE-002;Küche;1;27,9;18.03.2025;19.03.2025;Belgien;Klarna;Geliefert
+RE-2025-50038;K-10062;B-2025-10038;Baumwoll-Decke 150 x 200 cm;MAT-WOH-002;Wohnen;2;39,9;18.08.2025;19.08.2025;Tschechien;SEPA-Lastschrift;Geliefert
+RE-2025-50095;K-10379;B-2025-10095;Duftkerze Vanille 220 g;MAT-WOH-001;Wohnen;1;16,9;19.02.2025;22.02.2025;Österreich;Apple Pay;Geliefert
+RE-2025-50096;K-10108;B-2025-10096;Premium Grüntee 250 g;MAT-FOO-002;Lebensmittel;2;12,9;20.01.2025;27.01.2025;Italien;SEPA-Lastschrift;Versendet
+RE-2026-50084;K-10695;B-2026-10084;Bio-Kaffeebohnen 1 kg;MAT-FOO-001;Lebensmittel;1;21,9;20.05.2026;21.05.2026;Portugal;Klarna;Geliefert
+RE-2025-50016;K-10065;B-2025-10016;Kugelschreiber-Set 10 Stück;MAT-OFF-003;Büro & Schreibwaren;1;9,9;20.06.2025;27.06.2025;Italien;Klarna;Zugestellt
+RE-2025-50057;K-10039;B-2025-10057;Powerbank 20.000 mAh;MAT-ELE-004;Elektronik;1;34,9;20.06.2025;27.06.2025;Irland;Klarna;Geliefert
+RE-2025-50074;K-10570;B-2025-10074;Gesichtsreinigung Aloe Vera;MAT-BEA-002;Beauty;1;14,9;20.08.2025;22.08.2025;Niederlande;PayPal;Versendet
+RE-2026-50093;K-10732;B-2026-10093;Bio-Kaffeebohnen 1 kg;MAT-FOO-001;Lebensmittel;1;21,9;20.08.2026;26.08.2026;Niederlande;PayPal;Zugestellt
+RE-2025-50033;K-10077;B-2025-10033;Widerstandsband-Set 5-teilig;MAT-SPR-003;Sport & Freizeit;3;19,9;20.10.2025;24.10.2025;Spanien;Apple Pay;Geliefert
+RE-2026-50073;K-10005;B-2026-10073;Mechanische Gaming-Tastatur;MAT-ELE-005;Elektronik;2;89,9;21.02.2026;23.02.2026;Finnland;PayPal;Versendet
+RE-2026-50026;K-10065;B-2026-10026;Powerbank 20.000 mAh;MAT-ELE-004;Elektronik;1;34,9;21.06.2026;25.06.2026;Frankreich;PayPal;Zugestellt
+RE-2025-50030;K-10362;B-2025-10030;Powerbank 20.000 mAh;MAT-ELE-004;Elektronik;2;34,9;21.07.2025;22.07.2025;Italien;Klarna;Versendet
+RE-2025-50063;K-10001;B-2025-10063;USB-C Schnellladegerät 65 W;MAT-ELE-002;Elektronik;2;39,9;21.07.2025;24.07.2025;Polen;Apple Pay;Geliefert
+RE-2026-50083;K-10499;B-2026-10083;Notizbuch Hardcover A5;MAT-OFF-001;Büro & Schreibwaren;3;11,9;21.07.2026;28.07.2026;Niederlande;SEPA-Lastschrift;Versendet
+RE-2026-50009;K-10718;B-2026-10009;Yoga-Matte Premium;MAT-SPR-002;Sport & Freizeit;2;32,9;22.01.2026;25.01.2026;Finnland;PayPal;Zugestellt
+RE-2026-50007;K-10233;B-2026-10007;Smart LED Schreibtischlampe;MAT-ELE-003;Elektronik;1;54,9;22.08.2026;24.08.2026;Portugal;SEPA-Lastschrift;Geliefert
+RE-2025-50004;K-10781;B-2025-10004;Mechanische Gaming-Tastatur;MAT-ELE-005;Elektronik;1;89,9;22.12.2025;25.12.2025;Frankreich;PayPal;Geliefert
+RE-2025-50072;K-10589;B-2025-10072;Premium Grüntee 250 g;MAT-FOO-002;Lebensmittel;3;12,9;23.03.2025;27.03.2025;Niederlande;Klarna;Versendet
+RE-2026-50068;K-10329;B-2026-10068;Baumwoll-Decke 150 x 200 cm;MAT-WOH-002;Wohnen;2;39,9;24.03.2026;31.03.2026;Spanien;Klarna;Versendet
+RE-2025-50075;K-10572;B-2025-10075;Bio-Hafercookies 300 g;MAT-FOO-003;Lebensmittel;2;5,49;24.05.2025;31.05.2025;Dänemark;SEPA-Lastschrift;Versendet
+RE-2025-50089;K-10667;B-2025-10089;Smart LED Schreibtischlampe;MAT-ELE-003;Elektronik;2;54,9;25.08.2025;31.08.2025;Deutschland;PayPal;Geliefert
+RE-2025-50070;K-10343;B-2025-10070;Kugelschreiber-Set 10 Stück;MAT-OFF-003;Büro & Schreibwaren;2;9,9;25.10.2025;30.10.2025;Österreich;Kreditkarte;Geliefert
+RE-2025-50052;K-10854;B-2025-10052;Mechanische Gaming-Tastatur;MAT-ELE-005;Elektronik;1;89,9;26.03.2025;01.04.2025;Frankreich;Apple Pay;Zugestellt
+RE-2025-50071;K-10047;B-2025-10071;Yoga-Matte Premium;MAT-SPR-002;Sport & Freizeit;1;32,9;26.08.2025;02.09.2025;Niederlande;Klarna;Zugestellt
+RE-2025-50046;K-10720;B-2025-10046;Bio-Hafercookies 300 g;MAT-FOO-003;Lebensmittel;2;5,49;26.10.2025;28.10.2025;Belgien;Apple Pay;Zugestellt
+RE-2025-50034;K-10992;B-2025-10034;Duftkerze Vanille 220 g;MAT-WOH-001;Wohnen;2;16,9;28.02.2025;06.03.2025;Österreich;Kreditkarte;Geliefert
+RE-2025-50039;K-10873;B-2025-10039;Handcreme Sensitive 75 ml;MAT-BEA-001;Beauty;1;8,9;28.02.2025;05.03.2025;Polen;Kreditkarte;Geliefert
+RE-2026-50035;K-10410;B-2026-10035;Handcreme Sensitive 75 ml;MAT-BEA-001;Beauty;1;8,9;28.02.2026;04.03.2026;Finnland;PayPal;Geliefert
+RE-2026-50062;K-10523;B-2026-10062;Küchenwaage digital;MAT-KUE-002;Küche;1;27,9;28.03.2026;31.03.2026;Österreich;Klarna;Zugestellt
+RE-2026-50042;K-10267;B-2026-10042;Gesichtsreinigung Aloe Vera;MAT-BEA-002;Beauty;1;14,9;28.08.2026;02.09.2026;Niederlande;SEPA-Lastschrift;Geliefert
+RE-2025-50032;K-10459;B-2025-10032;Yoga-Matte Premium;MAT-SPR-002;Sport & Freizeit;1;32,9;29.04.2025;01.05.2025;Schweiz;Klarna;Geliefert
+RE-2025-50015;K-10048;B-2025-10015;Handcreme Sensitive 75 ml;MAT-BEA-001;Beauty;1;8,9;29.05.2025;03.06.2025;Irland;PayPal;Geliefert
+RE-2026-50027;K-10072;B-2026-10027;Baumwoll-Decke 150 x 200 cm;MAT-WOH-002;Wohnen;1;39,9;29.07.2026;31.07.2026;Tschechien;PayPal;Geliefert
+RE-2025-50077;K-10283;B-2025-10077;Widerstandsband-Set 5-teilig;MAT-SPR-003;Sport & Freizeit;2;19,9;30.09.2025;07.10.2025;Portugal;Apple Pay;Versendet
+RE-2026-50036;K-10802;B-2026-10036;Bio-Kaffeebohnen 1 kg;MAT-FOO-001;Lebensmittel;1;21,9;31.01.2026;01.02.2026;Portugal;Klarna;Geliefert
+RE-2025-50058;K-10840;B-2025-10058;Bio-Hafercookies 300 g;MAT-FOO-003;Lebensmittel;1;5,49;31.07.2025;07.08.2025;Portugal;Kreditkarte;Geliefert
+RE-2025-50090;K-10244;B-2025-10090;Kabellose Bluetooth-Kopfhörer;MAT-ELE-001;Elektronik;2;79,9;31.07.2025;07.08.2025;Schweiz;Klarna;Geliefert
