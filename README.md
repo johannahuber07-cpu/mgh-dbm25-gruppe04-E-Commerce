@@ -8,7 +8,8 @@ Kurze Beschreibung: Diese Projekt wird im Rahmen des Moduls Business Analytics e
 Quick Start: Für die Ausführung werden Programme bzw. Bibliotheken wie Python, Jupyter Notebook/Google Colab und Pandas benötigt. 
 
 
-*Verzeichnis*
+Inhalt/Verzeichnis:
+
 Das Projekt ist wie folgt aufgebaut:
 
 E-Commerce_Datenanalyse_Gruppe4.ipynb: Jupyter Notebook mit der vollständigen Datenanalyse, den Berechnungen und der Auswertung der vier Hypothesen.
