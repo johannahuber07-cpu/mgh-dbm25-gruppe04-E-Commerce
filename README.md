@@ -32,10 +32,10 @@ Datengrundlage_Gruppe4.csv:  Datensatz mit insgesamt 13 Merkmalen. Enthalten sin
 
 mgh-dbm25-gruppe04-Exposé E-Commerce.pdf: Exposé mit Forschungsfrage, Hypothesen, Datengrundlage und geplanter Vorgehensweise.
 
-Dann einfach bei der read me noch einen Punkt 
 
 
-*Originaldatensatz:*
+Orginaldatensatz:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 Als Ausgangsbasis wurde ein öffentlich verfügbarer Superstore-Datensatz verwendet. Dieser enthielt bereits Bestell-, Kunden-, Produkt-, Umsatz- und Versandinformationen. Für unser Projekt wurde der Datensatz reduziert und an unsere Forschungsfrage angepasst.
 Einzelne Merkmale wurden ergänzt bzw. umbenannt und die Produkte wurden mithilfe von KI in für unsere Analyse geeignete Kategorien eingeordnet.
