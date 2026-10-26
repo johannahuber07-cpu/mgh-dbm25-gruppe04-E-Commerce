@@ -8,6 +8,7 @@ Kurze Beschreibung: Diese Projekt wird im Rahmen des Moduls Business Analytics e
 Quick Start: Für die Ausführung werden Programme bzw. Bibliotheken wie Python, Jupyter Notebook/Google Colab und Pandas benötigt. 
 
 
+
 Inhalt/Verzeichnis:
 
 Das Projekt ist wie folgt aufgebaut:
