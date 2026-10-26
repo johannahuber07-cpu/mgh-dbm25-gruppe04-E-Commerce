@@ -5,7 +5,8 @@ Titel: E-Commerce
 
 Kurze Beschreibung: Diese Projekt wird im Rahmen des Moduls Business Analytics erstellt. Ziel ist es aus den vorhandenen Betselldaten betriebswirtschaftlich relevante Muster zu erkennen und so aufzubereiten, dass daraus nachvollziehbare Erkenntnisse abgeleitet werden können.
 
-Quick Start: Für die Ausführung werden Programme bzw. Bibliotheken wie Python, Jupyter Notebook/Google Colab und Pandas benötigt. 
+Quick Start: Für die Ausführung werden Programme bzw. Bibliotheken wie Python, Jupyter Notebook/Google Colab und Pandas benötigt.
+
 
 
 
